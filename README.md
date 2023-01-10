@@ -6,6 +6,7 @@
 - JavaScript
 - Python
 - React
+- Express
 - Node.js
 - MongoDB
 - Django
