@@ -5,10 +5,10 @@
 - CSS
 - JavaScript
 - Python
-- React
+<!-- - React
 - Express
 - Node.js
-- MongoDB
+- MongoDB -->
 - Django
 
 I am currently studying at The Odin Project and recently graduated from Zuri Training. I am proficient in front-end development and am working on expanding my skills in back-end technologies.
